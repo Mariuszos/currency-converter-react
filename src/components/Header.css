@@ -1,0 +1,19 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.logo {
+	min-width: 25px;
+	min-height: 25px;
+	margin: 10px;
+	background-image: url("../assets/img/dollar.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.setCurrency {
+	font-size: 18px;
+}
